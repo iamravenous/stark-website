@@ -62,7 +62,7 @@ a:hover {
 
 .buttons {
 	font-size: .9em;
-	margin-bottom: 100px;
+	margin-bottom: 1.5em;
 }
 
 .download-button {
@@ -98,6 +98,20 @@ a:hover {
 	margin-top: 2.5em;
 	margin-left: .5em;
 	text-transform: uppercase;
+}
+
+.hero p {
+	text-align: left;
+	font-size: .7em;
+	line-height: 1.7em;
+	color: #838383;
+	margin-top: 0;
+	margin-bottom: 8.5em;
+}
+
+.hero p a {
+	color: #838383;
+	text-decoration: underline;
 }
 
 .copy {
@@ -215,7 +229,7 @@ h2 {
 
 .buttons {
 	font-size: .9em;
-	margin-bottom: 50px;
+	margin-bottom: 1.5em;
 	padding-right: 40px;
 }
 
@@ -252,6 +266,16 @@ h2 {
 	margin-top: 1em;
 	margin-left: 0;
 	text-transform: uppercase;
+}
+
+.hero p {
+	text-align: left;
+	font-size: .7em;
+	line-height: 1.7em;
+	color: #838383;
+	margin-top: 0;
+	margin-bottom: 8em;
+	padding-right: 60px;
 }
 
 .copy {
