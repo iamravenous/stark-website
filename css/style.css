@@ -155,12 +155,29 @@ a:hover {
 	float: right;
 }
 
+.users h2 {
+	width: 100%;
+	text-align: center;
+	padding-right: none;
+	padding-top: 2em;
+}
+
+table {
+	width: 100%;
+	margin-top: 1em;
+}
+
+td {
+	text-align: center;
+	height: 100px;
+}
+
 .footer {
 	text-align: center;
 	font-size: .7em;
 	line-height: 1.7em;
 	color: #000;
-	margin-top: 0;
+	margin-top: 4em;
 	margin-bottom: 4em;
 }
 
@@ -313,6 +330,12 @@ h2 {
 	display: block;
 }
 
+td {
+	text-align: center;
+	height: 100px;
+	display: block;
+}
+
   
 }
 
@@ -423,6 +446,12 @@ h2 {
 	background-position: 0 0, 30px 30px;
 	min-height: 120px;
 	overflow: hidden;
+	display: block;
+}
+
+td {
+	text-align: center;
+	height: 100px;
 	display: block;
 }
 
